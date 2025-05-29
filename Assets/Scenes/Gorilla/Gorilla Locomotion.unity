@@ -240,17 +240,6 @@ MonoBehaviour:
   m_LightCookieSize: {x: 1, y: 1}
   m_LightCookieOffset: {x: 0, y: 0}
   m_SoftShadowQuality: 0
---- !u!114 &301065953 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2833611561518371532, guid: d4d68d79c805feb4e9a95a3f1ddb89cb, type: 3}
-  m_PrefabInstance: {fileID: 1219444256}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25a07ef133a37d140a87cdf1f1c75fdf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &432574414
 GameObject:
   m_ObjectHideFlags: 0
@@ -725,26 +714,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 5215647385112688538, guid: d4d68d79c805feb4e9a95a3f1ddb89cb, type: 3}
-      propertyPath: m_StartingGroupMembers.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 5215647385112688538, guid: d4d68d79c805feb4e9a95a3f1ddb89cb, type: 3}
-      propertyPath: 'm_StartingGroupMembers.Array.data[1]'
-      value: 
-      objectReference: {fileID: 2078257445}
-    - target: {fileID: 6869757958781542578, guid: d4d68d79c805feb4e9a95a3f1ddb89cb, type: 3}
-      propertyPath: m_Interpolate
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 8276856963604107074, guid: d4d68d79c805feb4e9a95a3f1ddb89cb, type: 3}
-      propertyPath: m_StartingGroupMembers.Array.size
-      value: 2
-      objectReference: {fileID: 0}
-    - target: {fileID: 8276856963604107074, guid: d4d68d79c805feb4e9a95a3f1ddb89cb, type: 3}
-      propertyPath: 'm_StartingGroupMembers.Array.data[1]'
-      value: 
-      objectReference: {fileID: 301065953}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1071,17 +1040,6 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ce5c2251d70caf148bbad13bb99ebf54, type: 3}
---- !u!114 &2078257445 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 7133993276205302097, guid: d4d68d79c805feb4e9a95a3f1ddb89cb, type: 3}
-  m_PrefabInstance: {fileID: 1219444256}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 0
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 25a07ef133a37d140a87cdf1f1c75fdf, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2103128506
 GameObject:
   m_ObjectHideFlags: 0
